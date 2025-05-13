@@ -1,2 +1,40 @@
 # Barren-Engine-
-This is a UDP TCP Networking Library made from scratch using its own Socket layer there is no Winsock or BSD but work with eachother
+This is a UDP TCP Networking Library made from scratch using its Socket layer There is no Winsock or BSD, but works with each other
+
+
+# Barren Engine Documentation
+
+## End User License Agreement (EULA)
+
+### 1. Acceptance
+By accessing, downloading, or using Barren Engine ("the Software"), you agree to be bound by the terms of this EULA. If you do not agree to these terms, do not use the Software.
+
+### 2. License Grant
+Subject to the terms of this EULA, you are granted a non-exclusive, non-transferable license to:
+- Use the Software for development and production purposes
+- Modify the Software for your own use
+- Distribute applications that incorporate the Software
+
+### 3. Attribution Requirement
+You must:
+- Give credit to C/Drive Studios as the creator of Barren Engine
+- Include a visible notice in your application stating "Powered by Barren Engine by C/Drive Studios"
+- Maintain the attribution in any derivative works or modifications
+- Include the attribution in your application's documentation and/or about section
+
+### 4. Restrictions
+You may not:
+- Reverse engineer, decompile, or disassemble the Software
+- Remove or alter any proprietary notices or attribution requirements
+- Use the Software for illegal purposes
+- Distribute the Software as a standalone product
+- Remove or modify the attribution to C/Drive Studios
+
+### 5. Warranty Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE AUTHOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED.
+
+### 6. Limitation of Liability
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES.
+
+### 7. Termination
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with its terms, including the attribution requirements.
